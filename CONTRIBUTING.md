@@ -34,6 +34,11 @@ git push origin feature/your-feature-name
 Go to your fork on GitHub and click **New Pull Request**. Describe your changes clearly.
 
 ## Code Style
+
+# Contributing
+
+All contributions, bug reports, bug fixes, documentation improvements,
+enhancements, and ideas are welcome.
 - Use clear variable names
 - Add comments to explain non-obvious logic
 - Keep scripts POSIX-compatible where possible
